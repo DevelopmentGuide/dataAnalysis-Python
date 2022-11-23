@@ -53,12 +53,12 @@ This repository contains the **archive of code** for the **data analysis with `p
 * [x] Grouping and aggregation for data summarization
 * [x] Merging and joining data from multiple sources
 
-#### Assignment 3 - Pandas Practice
-* [ ] Deadline: Tue Dec 20, 11:30 PM
-* [ ] Create data frames from CSV files
-* [ ] Query and index operations on data frames
-* [ ] Group, merge and aggregate data frames
-* [ ] Fix missing and invalid values in data
+#### [Assignment 3 - Pandas Practice](archive/07-assignments/assignment-3/README.md)
+* [x] Deadline: Tue Dec 20, 11:30 PM
+* [x] Create data frames from CSV files
+* [x] Query and index operations on data frames
+* [x] Group, merge and aggregate data frames
+* [x] Fix missing and invalid values in data
   
 
 ## [Lesson 5 - Visualization with Matplotlib and Seaborn](archive/05-visualization/README.md)
@@ -77,6 +77,17 @@ This repository contains the **archive of code** for the **data analysis with `p
 * [x] Exploratory analysis and visualization
 * [ ] Answering questions and making inferences
   
+
+
+## [Assignments](archive/07-assignments/README.md)
+
+* [ ] Assignment 1 - Python Basics Practice
+
+* [ ] Assignment 2 - Numpy Array Operations
+
+* [x] Assignment 3 - [Pandas Practice](archive/07-assignments/assignment-3/README.md)
+
+
 
 ### Resources 
 
