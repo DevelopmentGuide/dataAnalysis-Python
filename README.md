@@ -31,12 +31,12 @@ This repository contains the **archive of code** for the **data analysis with `p
 * [x] Reading File
 
 
-## Lesson 3 - Numerical Computing with Numpy
+## [Lesson 3 - Numerical Computing with Numpy](archive/03-numpy/README.md)
   
-* [ ] Going from Python lists to Numpy arrays
-* [ ] Working with multi-dimensional arrays
-* [ ] Array operations, slicing and broadcasting
-* [ ] Working with CSV data files
+* [x] Going from Python lists to Numpy arrays
+* [x] Working with multi-dimensional arrays
+* [x] Array operations, slicing and broadcasting
+* [x] Working with CSV data files
 
 #### Assignment 2 - Numpy Array Operations
 * [ ] Deadline: Tue Dec 13, 11:30 PM
