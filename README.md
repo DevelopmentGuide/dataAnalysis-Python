@@ -1,0 +1,90 @@
+# Data Analysis with Python
+
+This repository contains the **archive of code** for the **data analysis with `python`** 
+
+## Lesson 1 - Introduction to Programming with Python
+
+* [ ] First steps with Python & Jupyter notebooks
+* [ ] Arithmetic, conditional & logical operators in Python
+* [ ] Quick tour with Variables and common data types
+
+
+## Lesson 2 - Next Steps with Python
+
+* [ ] Branching with if, elif, and else
+* [ ] Iteration with while and for loops
+* [ ] Write reusable code with Functions
+* [ ] Scope of variables and exceptions
+
+#### Assignment 1 - Python Basics Practice
+* [ ] Deadline: Tue Dec 06, 11:30 PM
+* [ ] Solve word problems using variables & arithmetic operations
+* [ ] Manipulate data types using methods & operators
+* [ ] Use branching and iterations to translate ideas into code
+* [ ] Explore the documentation and get help from the community
+
+
+## Lesson 2 - Python OS and FileSystem
+
+* [ ] Gettting the current working directory
+* [ ] Creating a directory
+* [ ] Reading File
+
+
+## Lesson 3 - Numerical Computing with Numpy
+  
+* [ ] Going from Python lists to Numpy arrays
+* [ ] Working with multi-dimensional arrays
+* [ ] Array operations, slicing and broadcasting
+* [ ] Working with CSV data files
+
+#### Assignment 2 - Numpy Array Operations
+* [ ] Deadline: Tue Dec 13, 11:30 PM
+* [ ] Explore the Numpy documentation website
+* [ ] Demonstrate usage 5 numpy array operations
+* [ ] Publish a Jupyter notebook with explanations
+* [ ] Share your work with the course community
+  
+  
+## Lesson 4 - Analyzing Tabular Data with Pandas
+  
+* [ ] Reading and writing CSV data with Pandas
+* [ ] Querying, filtering and sorting data frames
+* [ ] Grouping and aggregation for data summarization
+* [ ] Merging and joining data from multiple sources
+
+#### Assignment 3 - Pandas Practice
+* [ ] Deadline: Tue Dec 20, 11:30 PM
+* [ ] Create data frames from CSV files
+* [ ] Query and index operations on data frames
+* [ ] Group, merge and aggregate data frames
+* [ ] Fix missing and invalid values in data
+  
+
+## Lesson 5 - Visualization with Matplotlib and Seaborn
+
+* [ ] Basic visualizations with Matplotlib
+* [ ] Advanced visualizations with Seaborn
+* [ ] Tips for customizing and styling charts
+* [ ] Plotting images and grids of charts
+* [ ] Course Project - Exploratory Data Analysis
+* [ ] Deadline: Tue Jan 17, 11:30 PM
+* [ ] Find a real-world dataset of your choice online
+* [ ] Use Numpy & Pandas to parse, clean & analyze data
+* [ ] Use Matplotlib & Seaborn to create visualizations
+* [ ] Ask and answer interesting questions about the data
+  
+  
+## Lesson 6 - Exploratory Data Analysis - A Case Study
+  
+* [ ] Finding a good real-world dataset for EDA
+* [ ] Data loading, cleaning and preprocessing
+* [ ] Exploratory analysis and visualization
+* [ ] Answering questions and making inferences
+  
+
+### Resources 
+
+* Data Analysis with Python Course - Numpy, Pandas, Data Visualization - [YouTube](https://www.youtube.com/watch?v=GPVsHOlRBBI&list=WL&index=2&t=9274s)
+
+* [Jovian](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas)
