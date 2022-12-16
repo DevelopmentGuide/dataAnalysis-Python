@@ -2,11 +2,11 @@
 
 This repository contains the **archive of code** for the **data analysis with `python`** 
 
-## Lesson 1 - Introduction to Programming with Python
+## [Lesson 1 - Introduction to Programming with Python](archive/01-introduction/README.md)
 
-* [ ] First steps with Python & Jupyter notebooks
-* [ ] Arithmetic, conditional & logical operators in Python
-* [ ] Quick tour with Variables and common data types
+* [x] First steps with Python & Jupyter notebooks
+* [x] Arithmetic, conditional & logical operators in Python
+* [x] Quick tour with Variables and common data types
 
 
 ## Lesson 2 - Next Steps with Python
