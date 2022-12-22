@@ -9,12 +9,12 @@ This repository contains the **archive of code** for the **data analysis with `p
 * [x] Quick tour with Variables and common data types
 
 
-## Lesson 2 - Next Steps with Python
+## [Lesson 2 - Next Steps with Python](archive/02-next-steps/README.md)
 
-* [ ] Branching with if, elif, and else
-* [ ] Iteration with while and for loops
-* [ ] Write reusable code with Functions
-* [ ] Scope of variables and exceptions
+* [x] Branching with if, elif, and else
+* [x] Iteration with while and for loops
+* [x] Write reusable code with Functions
+* [x] Scope of variables and exceptions
 
 #### Assignment 1 - Python Basics Practice
 * [ ] Deadline: Tue Dec 06, 11:30 PM
