@@ -24,11 +24,11 @@ This repository contains the **archive of code** for the **data analysis with `p
 * [ ] Explore the documentation and get help from the community
 
 
-## Lesson 2 - Python OS and FileSystem
+## [Lesson 2 - Python OS and FileSystem](archive/02-python-os/README.md)
 
-* [ ] Gettting the current working directory
-* [ ] Creating a directory
-* [ ] Reading File
+* [x] Gettting the current working directory
+* [x] Creating a directory
+* [x] Reading File
 
 
 ## Lesson 3 - Numerical Computing with Numpy
