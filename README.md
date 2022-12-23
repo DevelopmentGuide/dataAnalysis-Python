@@ -70,11 +70,11 @@ This repository contains the **archive of code** for the **data analysis with `p
 
 
   
-## Lesson 6 - Exploratory Data Analysis - A Case Study
+## [Lesson 6 - Exploratory Data Analysis - A Case Study](archive/06-analysis/README.md)
   
-* [ ] Finding a good real-world dataset for EDA
-* [ ] Data loading, cleaning and preprocessing
-* [ ] Exploratory analysis and visualization
+* [x] Finding a good real-world dataset for EDA
+* [x] Data loading, cleaning and preprocessing
+* [x] Exploratory analysis and visualization
 * [ ] Answering questions and making inferences
   
 
