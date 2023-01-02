@@ -46,12 +46,12 @@ This repository contains the **archive of code** for the **data analysis with `p
 * [ ] Share your work with the course community
   
   
-## Lesson 4 - Analyzing Tabular Data with Pandas
+## [Lesson 4 - Analyzing Tabular Data with Pandas](archive/04-pandas/README.md)
   
-* [ ] Reading and writing CSV data with Pandas
-* [ ] Querying, filtering and sorting data frames
-* [ ] Grouping and aggregation for data summarization
-* [ ] Merging and joining data from multiple sources
+* [x] Reading and writing CSV data with Pandas
+* [x] Querying, filtering and sorting data frames
+* [x] Grouping and aggregation for data summarization
+* [x] Merging and joining data from multiple sources
 
 #### Assignment 3 - Pandas Practice
 * [ ] Deadline: Tue Dec 20, 11:30 PM
