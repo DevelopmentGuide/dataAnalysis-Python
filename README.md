@@ -61,19 +61,14 @@ This repository contains the **archive of code** for the **data analysis with `p
 * [ ] Fix missing and invalid values in data
   
 
-## Lesson 5 - Visualization with Matplotlib and Seaborn
+## [Lesson 5 - Visualization with Matplotlib and Seaborn](archive/05-visualization/README.md)
 
-* [ ] Basic visualizations with Matplotlib
-* [ ] Advanced visualizations with Seaborn
-* [ ] Tips for customizing and styling charts
-* [ ] Plotting images and grids of charts
-* [ ] Course Project - Exploratory Data Analysis
-* [ ] Deadline: Tue Jan 17, 11:30 PM
-* [ ] Find a real-world dataset of your choice online
-* [ ] Use Numpy & Pandas to parse, clean & analyze data
-* [ ] Use Matplotlib & Seaborn to create visualizations
-* [ ] Ask and answer interesting questions about the data
-  
+* [x] Basic visualizations with Matplotlib
+* [x] Advanced visualizations with Seaborn
+* [x] Tips for customizing and styling charts
+* [x] Plotting images and grids of charts
+
+
   
 ## Lesson 6 - Exploratory Data Analysis - A Case Study
   
