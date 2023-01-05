@@ -1,6 +1,9 @@
 # Data Analysis with Python
 
+[![wakatime](https://wakatime.com/badge/user/94eceae7-683a-4d18-a44b-59d4ffd2eb5d/project/ba6c3b81-b36b-4a98-92be-510a8bdd49b1.svg)](https://wakatime.com/@pratikkabade/projects/cxegddbssw?)
+
 This repository contains the **archive of code** for the **data analysis with `python`** 
+
 
 ## [Lesson 1 - Introduction to Programming with Python](archive/01-introduction/README.md)
 
@@ -82,9 +85,7 @@ This repository contains the **archive of code** for the **data analysis with `p
 ## [Assignments](archive/07-assignments/README.md)
 
 * [ ] Assignment 1 - Python Basics Practice
-
 * [ ] Assignment 2 - Numpy Array Operations
-
 * [x] Assignment 3 - [Pandas Practice](archive/07-assignments/assignment-3/README.md)
 
 
